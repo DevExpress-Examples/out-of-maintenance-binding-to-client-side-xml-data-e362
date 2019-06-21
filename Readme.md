@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Binding to client-side XML data
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e362/)**
+<!-- run online end -->
 
 
 <p>This example shows how to bind ASPxTreeList to XML data obtained on the client side using custom callbacks.</p>
