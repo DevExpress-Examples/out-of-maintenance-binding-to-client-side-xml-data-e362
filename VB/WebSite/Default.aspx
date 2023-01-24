@@ -1,5 +1,5 @@
 <%@ Page Language="vb" AutoEventWireup="true" CodeFile="Default.aspx.vb" Inherits="TreeList_Data_BindToClientSideXml_Default" %>
-<%@ Register Assembly="DevExpress.Web.ASPxTreeList.v15.1" Namespace="DevExpress.Web.ASPxTreeList" TagPrefix="dxwtl" %>
+<%@ Register Assembly="DevExpress.Web.ASPxTreeList.v13.1" Namespace="DevExpress.Web.ASPxTreeList" TagPrefix="dxwtl" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
